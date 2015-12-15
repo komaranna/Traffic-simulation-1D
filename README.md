@@ -8,7 +8,7 @@ Simulates a 1D traffic situation on a lattice: cars enter on the left with rate 
 
 N=1000 fixed lattice.
 
-Tlength is the time the simulation stops.
+Tlength is the time the simulation stops at.
 
 Multi-threaded: nprocs is the number of processors one would like to use.
 
